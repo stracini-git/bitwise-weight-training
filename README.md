@@ -1,4 +1,7 @@
 # Bit-wise Training of Neural Network Weights
+
+![plot](images/RN16bit_untrainablescanResNetAccSpar_bitdepthscan_2560.png)
+
 This repository corresponds to the work submitted for ICLR2022: https://openreview.net/forum?id=gxk4-rVATDA
 
 
@@ -16,7 +19,7 @@ without affecting its accuracy. These codes can be random noise, binary files or
 previously trained networks.
 
 
-![plot](images/RN16bit_untrainablescanResNetAccSpar_bitdepthscan_2560.png)
+
 
 
 ### Requirements
