@@ -16,7 +16,7 @@ without affecting its accuracy. These codes can be random noise, binary files or
 previously trained networks.
 
 
-![plot](images/RN16bit_untrainablescanResNetAccSpar_bitdepthscan.png)
+![plot](images/RN16bit_untrainablescanResNetAccSpar_bitdepthscan_2560.png)
 
 
 ### Requirements
