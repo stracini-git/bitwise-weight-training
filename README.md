@@ -1,8 +1,10 @@
 # Bit-wise Training of Neural Network Weights
 
 
+This repository contains the code for the experiments from the following publication "**Bit-wise Training of Neural Network Weights**". \
+Links: [arXiv](https://arxiv.org/abs/2202.09571) or [OpenReview](https://openreview.net/forum?id=gxk4-rVATDA)
 
-This repository corresponds to the work submitted for ICLR2022: https://openreview.net/forum?id=gxk4-rVATDA
+
 
 
 
