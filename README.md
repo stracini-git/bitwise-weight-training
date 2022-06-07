@@ -2,7 +2,7 @@
 
 
 This repository contains the code for the experiments from the following publication "**Bit-wise Training of Neural Network Weights**". \
-Links: [arXiv](https://arxiv.org/abs/2202.09571) or [OpenReview](https://openreview.net/forum?id=gxk4-rVATDA)
+Link: [arXiv](https://arxiv.org/abs/2202.09571)
 
 
 
